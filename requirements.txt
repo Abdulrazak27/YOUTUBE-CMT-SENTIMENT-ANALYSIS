@@ -1,0 +1,10 @@
+streamlit
+google-api-python-client
+nltk
+pandas
+plotly
+colorama
+python-dotenv
+google-generativeai
+requests
+vaderSentiment
